@@ -1,0 +1,28 @@
+html {
+  font-family: Roboto, sans-serif;
+}
+
+#maintitle {
+  display: block;
+}
+#subtitle {
+  font-size: smaller;
+}
+
+a.item-url {
+  color:black;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.bibtexentry {
+  padding-bottom: 1em;
+}
+
+.journal, .booktitle {
+  font-style: italic;
+}
+
+#footer {
+  font-size: 80%;
+}

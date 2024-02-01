@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+
+  </head>
+  <body>
+
+    <!-- Bibtex Sources -->
+    <bibtex src="cyclic_proof.published.bib"></bibtex>
+    <bibtex src="cyclic_proof.theses.bib"></bibtex>
+    <bibtex src="cyclic_proof.preprints.bib"></bibtex>
+
+    <!-- Bibtex item template -->
+    <div class="bibtex_template">
+      <span class="if url">
+        <a class="url item-url"><span class="title"></span></a>
+      </span>
+      <span class="if !url">
+        <span class="title"></span>
+      </span>
+      <br>
+      <span class="if BIBTEXTYPEKEY==ARTICLE">
+        <span class="author"></span><br>
+        <span class="journal"></span><span class="if volume"> <span class="volume"></span><span class="if number">(<span class="number"></span>)</span></span>,
+        <span class="if pages">pp.&nbsp;<span class="pages"></span>.</span>
+      </span>
+      <span class="if BIBTEXTYPEKEY==INBOOK || BIBTEXTYPEKEY==INPROCEEDINGS">
+        <span class="author"></span><br>
+        In <span class="booktitle"></span>.
+        <span class="if series"><span class="series"></span><span class="if volume">, vol.&nbsp;<span class="volume"></span></span>.</span>
+        <span class="if publisher"><span class="publisher"></span>.</span>
+        <span class="if pages">pp.&nbsp;<span class="pages"></span>.</span>
+      </span>
+      <span class="if BIBTEXTYPEKEY==PHDTHESIS || BIBTEXTYPEKEY==MASTERSTHESIS">
+        <span class="author"></span>,
+        <span class="if BIBTEXTYPEKEY==PHDTHESIS">PhD</span>
+        <span class="if BIBTEXTYPEKEY==MASTERSTHESIS">Master's</span>
+        Thesis<span class="if !note">.</span>
+        <span class="if note">(<span class="note"></span>).</span>
+        <br>
+        <span class="school"></span>,
+        <span class="if month"><span class="month"></span> </span><span class="year"></span>.
+      </span>
+      <span class="if BIBTEXTYPEKEY==MISC">
+        <span class="author"></span><br>
+        <span class="howpublished"></span><span class="if note"> (<span class="note"></span>)</span>,
+        <span class="year"></span>.
+      </span>
+    </div>
+
+    <!-- Page Content -->
+    <h1>
+      <span id="maintitle">Non-well-founded and Cyclic Proof Theory</span>
+      <span id="subtitle">A Bibliography</span>
+    </h1>
+
+    <div id="bibtex_errors"></div>
+
+    <p>
+      This bibliography lists a collection of academic work on the subject of
+      cyclic and non-well-founded proof theory and its applications,
+      consisting of published papers, theses, and preprints.
+    </p>
+
+    <p>
+      This website uses the
+      <a href="https://github.com/pcooksey/bibtex-js/">bibtex-js</a>
+      library to render items directly from Bibtex files.
+      Please feel free to access the Bibtex files directly on
+      <a href="https://github.com/reubenrowe/cyclic-proof-bibliography">Github</a>.
+    </p>
+
+    <p>
+      The intention is for this bibliography to be comprehensive.
+      Suggestions of missing items, or for corrections, are welcome:
+      please submit an issue in the
+      <a href="https://github.com/reubenrowe/cyclic-proof-bibliography/issues">Github</a>
+      repository, or send an email to
+      <a href="mailto:reuben.rowe@rhul.ac.uk">reuben.rowe@rhul.ac.uk</a>.
+    </p>
+
+    <h2>Bibliography Items</h2>
+    <div class="bibtex_display"></div>
+
+    <div id="footer">
+      Maintained by <a href="https://www.cs.rhul.ac.uk/home/rrowe/">Reuben N. S. Rowe</a>.
+      Powered by the <a href="https://github.com/pcooksey/bibtex-js">bibtex-js</a> library.
+    </div>
+
+  </body>
+</html>
