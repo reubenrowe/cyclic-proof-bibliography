@@ -11,8 +11,11 @@ html {
 
 a.item-url {
   color:black;
-  font-weight: bolder;
   text-decoration: none;
+}
+
+.title {
+  font-weight: bolder;
 }
 
 .bibtexentry {
