@@ -1,5 +1,15 @@
+/***
+ * Colours from "Forest Mist"
+ * https://paperheartdesign.com/blog/color-palette-peaceful-palettes
+ ***/
+
 html {
   font-family: Roboto, sans-serif;
+  background: #eef3f9;
+}
+
+html, .title {
+  color: #001b2e;
 }
 
 #maintitle {
@@ -9,21 +19,61 @@ html {
   font-size: smaller;
 }
 
-a.item-url {
-  color:black;
+a {
+  color: #537692;
   text-decoration: none;
+}
+
+a:hover {
+  color: #1d3f58;
+  text-decoration: underline;
+}
+
+a.internal-link {
+  font-size: smaller;
 }
 
 .title {
   font-weight: bolder;
 }
 
+h2 {
+  margin-bottom: 0em;
+}
+
+h3 {
+  text-decoration-line: underline;
+  margin-bottom: 0em;
+}
+
+h4 {
+  display: inline;
+}
+
+.h4-style {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.year-links {
+  margin-top: 0.5em;
+}
+
+a.inline-link {
+  margin-left: 1em;
+}
+
 .bibtexentry {
+  margin-left: 1.5em;
   padding-bottom: 1em;
 }
 
 .journal, .booktitle {
   font-style: italic;
+}
+
+#theses-display, #preprints-display {
+  margin-top: 1em;
 }
 
 #footer {
