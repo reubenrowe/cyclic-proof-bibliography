@@ -17,6 +17,9 @@ potentially inclusding them in the bibliography.
 
 ## Identified by Myself
 
-* [The New Normal: We Cannot Eliminate Cuts in Coinductive Calculi, But We Can Explore Them](https://doi.org/10.1017/S1471068420000423)
-* [A Coinductive Approach to Proof Search](https://doi.org/10.4204/EPTCS.126.3)
-* [A Coinductive Approach to Proof Search Through Typed Lambda-calculi](https://doi.org/10.1016/j.apal.2021.103026)
+* Komendantskaya, Rozplokhas and Basold, [The New Normal: We Cannot Eliminate Cuts in Coinductive Calculi, But We Can Explore Them](https://doi.org/10.1017/S1471068420000423)
+* Espírito Santo, Matthes and Pinto, [A Coinductive Approach to Proof Search](https://doi.org/10.4204/EPTCS.126.3)
+* Espírito Santo, Matthes and Pinto, [A Coinductive Approach to Proof Search Through Typed Lambda-calculi](https://doi.org/10.1016/j.apal.2021.103026)
+* Brünnler and Lange, [Cut-free Sequent Systems for Temporal Logic](https://doi.org/10.1016/j.jlap.2008.02.004)
+* Friedmann and Lange, [Deciding the Unguarded Modal µ-calculus](https://doi.org/10.1080/11663081.2013.861181)
+* Galmiche and Méry, [Labelled Tableaux for Linear Time Bunched Implication Logic](https://doi.org/10.4230/LIPIcs.FSCD.2023.31).
