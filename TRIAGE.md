@@ -23,3 +23,7 @@ potentially inclusding them in the bibliography.
 * Brünnler and Lange, [Cut-free Sequent Systems for Temporal Logic](https://doi.org/10.1016/j.jlap.2008.02.004)
 * Friedmann and Lange, [Deciding the Unguarded Modal µ-calculus](https://doi.org/10.1080/11663081.2013.861181)
 * Galmiche and Méry, [Labelled Tableaux for Linear Time Bunched Implication Logic](https://doi.org/10.4230/LIPIcs.FSCD.2023.31).
+
+## Extended Abstracts
+
+* Abhishek De, Denis Kuperberg, [The proof theory of pro-aperiodic terms](https://blc24.github.io/papers/BLC24_paper_14.pdf)
