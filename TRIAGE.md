@@ -23,7 +23,14 @@ potentially inclusding them in the bibliography.
 * Brünnler and Lange, [Cut-free Sequent Systems for Temporal Logic](https://doi.org/10.1016/j.jlap.2008.02.004)
 * Friedmann and Lange, [Deciding the Unguarded Modal µ-calculus](https://doi.org/10.1080/11663081.2013.861181)
 * Galmiche and Méry, [Labelled Tableaux for Linear Time Bunched Implication Logic](https://doi.org/10.4230/LIPIcs.FSCD.2023.31).
+* Double check references in Introduction of [Global condition check strategy for a cyclic sequent calculus of temporal logic](https://doi.org/10.1007/s10986-025-09671-5).
+* Double check references 12-18 in [Cut-Free Sequent Calculus for Multi-Agent Logic of Common Knowledge](https://doi.org/10.37256/cm.6220255621).
+* Check whether the following paper defines a system that can be construed as a cyclic proof system: [Coinductive Proofs of Regular Expression Equivalence in Zero Knowledge](https://doi.org/10.48550/arXiv.2504.01198).
 
 ## Extended Abstracts
 
 * Abhishek De, Denis Kuperberg, [The proof theory of pro-aperiodic terms](https://blc24.github.io/papers/BLC24_paper_14.pdf)
+
+## Submitted to be Published
+
+* James Brotherston, Quang Loc, Lea, Gauri Desaia and Yukihiro Oda, [Cyclic Proofs in Hoare Logic and its Reverse](https://arxiv.org/abs/2504.14283). SUbmitted to MFPS 2025.
