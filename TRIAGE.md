@@ -26,6 +26,8 @@ potentially inclusding them in the bibliography.
 * Double check references in Introduction of [Global condition check strategy for a cyclic sequent calculus of temporal logic](https://doi.org/10.1007/s10986-025-09671-5).
 * Double check references 12-18 in [Cut-Free Sequent Calculus for Multi-Agent Logic of Common Knowledge](https://doi.org/10.37256/cm.6220255621).
 * Check whether the following paper defines a system that can be construed as a cyclic proof system: [Coinductive Proofs of Regular Expression Equivalence in Zero Knowledge](https://doi.org/10.48550/arXiv.2504.01198).
+* Regimantas Pliuskevicius, Investigation of finitary calculus for a discrete linear time logic by means of infinitary calculus, in: Baltic Computer
+Science, Selected Papers, Springer-Verlag, London, UK, 1991, pp. 504–528.
 
 ## Extended Abstracts
 
