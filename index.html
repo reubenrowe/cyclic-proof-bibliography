@@ -2,7 +2,8 @@
 <html>
   <head>
 
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script>
+    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/pcooksey/bibtex-js@1.0.0/src/bibtex_js.min.js"></script> -->
+    <script type="text/javascript" src="bibtex_js.js"></script>
 
     <link rel="stylesheet" href="styles.css">
 
@@ -53,6 +54,67 @@
         <span class="if note"> (<span class="note"></span>)</span>
       </span>
     </div>
+
+    <!-- Bibtex structure (grouping and sorting) -->
+    <!-- <div class="bibtex_structure">
+      <div class="sections bibtextypekey">
+        <div class="section article|inproceedings|inbook">
+          <h2>Published, Peer-reviewed Papers</h2>
+          <div class="group year" extra="ASC number">
+            <h3 class="title"></h3>
+            <div class="templates"></div>
+          </div>
+        </div>
+        <div class="section phdthesis|mastersthesis">
+          <h2>Theses and Dissertations</h2>
+          <div class="sort year" extra="ASC number">
+            <div class="templates"></div>
+          </div>
+        </div>
+        <div class="section misc|techreport|booklet">
+          <h2>Preprints and Manuscripts</h2>
+          <div class="sort year" extra="ASC number">
+            <div class="templates"></div>
+          </div>
+        </div>
+      </div>
+    </div> -->
+
+    <!-- <div class="bibtex_structure">
+      <div class="sections bibtextypekey">
+        <div class="section article|inproceedings|inbook">
+          <h2>Published, Peer-reviewed Papers</h2>
+          <div class="bibtex_structure">
+            <div class="group year" extra="ASC number">
+              <h3 class="title"></h3>
+              <div class="bibtex_structure">
+                <div class="templates"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section phdthesis|mastersthesis">
+          <h2>Theses and Dissertations</h2>
+          <div class="bibtex_structure">
+            <div class="sort year" extra="ASC number">
+              <div class="bibtex_structure">
+                <div class="templates"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section misc|techreport|booklet">
+          <h2>Preprints and Manuscripts</h2>
+          <div class="bibtex_structure">
+            <div class="sort year" extra="ASC number">
+              <div class="bibtex_structure">
+                <div class="templates"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> -->
 
     <!-- Page Content -->
     <a id="top"></a>
@@ -105,6 +167,7 @@
      <div class="year-links">
       <a class="internal-link" href="#published-1978">[1978]</a>
       <br>
+      <a class="internal-link" href="#published-1993">[1993]</a>
       <a class="internal-link" href="#published-1995">[1995]</a>
       <a class="internal-link" href="#published-1996">[1996]</a>
       <a class="internal-link" href="#published-1998">[1998]</a>
@@ -143,6 +206,12 @@
       <a class="internal-link inline-link" href="#published">[Back to top]</a>
     </div>
     <div class="bibtex_display" bibtextypekey="ARTICLE|INPROCEEDINGS|INBOOK|INCOLLECTION" year="1978"></div>
+
+    <div class="h4-style">
+      <h4 id="published-1993">1993</h4>
+      <a class="internal-link inline-link" href="#published">[Back to top]</a>
+    </div>
+    <div class="bibtex_display" bibtextypekey="ARTICLE|INPROCEEDINGS|INBOOK|INCOLLECTION" year="1993"></div>
 
     <div class="h4-style">
       <h4 id="published-1995">1995</h4>
