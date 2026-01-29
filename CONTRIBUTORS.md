@@ -7,3 +7,4 @@ Mads Dam
 Claus-Peter Wirth
 Dominik Wehr
 Iris van der Giessen
+Johannes Kloibhoffer
