@@ -35,4 +35,3 @@ Science, Selected Papers, Springer-Verlag, London, UK, 1991, pp. 504–528.
 
 ## Submitted to be Published
 
-* James Brotherston, Quang Loc, Lea, Gauri Desaia and Yukihiro Oda, [Cyclic Proofs in Hoare Logic and its Reverse](https://arxiv.org/abs/2504.14283). SUbmitted to MFPS 2025.
