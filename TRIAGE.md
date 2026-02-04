@@ -35,3 +35,6 @@ Science, Selected Papers, Springer-Verlag, London, UK, 1991, pp. 504–528.
 
 ## Submitted to be Published
 
+## Submitted on arXiv, but Waiting for Published Version
+
+* Gianluca Curzi, Lukas Melgaard: [Cyclic proof theory of positive inductive definitions](https://doi.org/10.48550/arXiv.2507.13057).
