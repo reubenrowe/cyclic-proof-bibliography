@@ -36,3 +36,7 @@ Science, Selected Papers, Springer-Verlag, London, UK, 1991, pp. 504–528.
 ## Submitted to be Published
 
 ## Submitted on arXiv, but Waiting for Published Version
+
+## Published, but Not Accessible To Me
+
+* [Reachable Completeness Theorem of Order Sorted Equational Logic with Infinite Proofs](https://doi.org/10.1007/978-3-032-30693-7_18)
