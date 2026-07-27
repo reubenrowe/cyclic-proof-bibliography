@@ -37,6 +37,11 @@ Science, Selected Papers, Springer-Verlag, London, UK, 1991, pp. 504–528.
 
 ## Submitted on arXiv, but Waiting for Published Version
 
+* Some paper by Yuanrui Zhang. I haven't added these as preprints as I know there are some questions over the technical correctness of the parameterized dynamic logic.
+  * [Labelled Process Logic](https://arxiv.org/abs/2606.10961)
+  * [On A Parameterized Theory of Dynamic Logic for Operationally-based Programs](https://arxiv.org/abs/2602.09307)
+  * [Parameterized Dynamic Logic -- Towards A Cyclic Logical Framework for General Program Specification and Verification](https://arxiv.org/abs/2404.18098)
+
 ## Published, but Not Accessible To Me
 
 * [Reachable Completeness Theorem of Order Sorted Equational Logic with Infinite Proofs](https://doi.org/10.1007/978-3-032-30693-7_18)
